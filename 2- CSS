@@ -1,5 +1,22 @@
 2.0 CSS
 
+
+	Que es CSS
+
+CSS son las siglas de Cascading Style Sheet (Hojas de Estilo en Cascada), un lenguaje de programación que permite especificar como un documento electrónico será presentado a los usuarios. Puede ser aplicado a cualquier documento que utilice un lenguaje de marcado (XML) donde se estructure la información mediante etiquetas, como por ejemplo HTML o XHTML.
+Este lenguaje permite brindarle al documento estilos de presentación diferentes para mejorar la accesibilidad del usuario. 
+
+CSS permite centrarse en la forma de presentación del documento. Una vez creada la estructura del contenido, se puede aplicar mas de un estilo al mismo documento, con el fin de mostrarlo de diversas formas según el medio, por ejemplo visualizarlo diferente según el tamaño de pantalla, dispositivo o impresión, como así también representarlo de forma auditiva o mediante un dispositivo táctil basados en el sistema Braille.
+
+Surge en el año 1995 debido a la necesidad de los desarrolladores de adquirir mayor flexibilidad y control en este área, ya que al trabajar de forma separada la presentación (hoja de estilo) del contenido mejora la organización del documento, disminuye la complejidad y repetición de código en la estructura del mismo evitando los datos redundantes, facilita las tareas de mantenimiento sin necesidad de tocar el contenido. Otra ventaja que presenta es la aplicación de diferentes versiones para un mismo documento, como así también que varios documentos compartan una misma hoja de estilo. 
+
+CSS es un lenguaje estándar especificado por parte de la W3C, el consorcio encargado de las recomendaciones y estándares que aseguran el crecimiento de la World Wide Web, y base de la Open Web. Si bien este es muy utilizado en los documentos web, no es solo para los navegadores, ya que se puede utilizar también en interfaces de aplicaciones móviles y escritorio. 
+
+
+
+
+
+-------------------------------------------------------------------------------------------
 	2.1 ¿Qué es CSS?
 
 Es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en HTML. Es muy usado para establecer el diseño visual de los documentos web, e interfaces de usuario escritas en HTML o XHTML; el lenguaje puede ser aplicado a cualquier documento XML. También permite aplicar estilos no visuales, como las hojas de estilo auditivas. Es una tecnología usada por muchos sitios web para crear páginas visualmente atractivas, interfaces de usuario para aplicaciones web, y GUIs para muchas aplicaciones móviles.
